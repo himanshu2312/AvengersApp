@@ -40,80 +40,81 @@
 25-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:11:9-54
 26        android:supportsRtl="true"
 26-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:12:9-35
-27        android:theme="@style/Theme.ActivityLifecycle" >
-27-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:13:9-55
-28        <activity
-28-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:15:9-26:20
-29            android:name="com.himanshu.activitylifecycle.SplashActivity"
-29-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:16:13-43
-30            android:exported="true" >
-30-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:17:13-36
-31            <intent-filter>
-31-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:18:13-22:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:19:17-69
-32-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:19:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:21:17-77
-34-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:21:27-74
-35            </intent-filter>
-36
-37            <meta-data
-37-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:23:13-25:36
-38                android:name="android.app.lib_name"
-38-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:24:17-52
-39                android:value="" />
-39-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:25:17-33
-40        </activity>
-41        <activity
-41-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:27:9-34:20
-42            android:name="com.himanshu.activitylifecycle.LoginActivity"
-42-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:28:13-42
-43            android:exported="true" >
-43-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:29:13-36
-44            <meta-data
-44-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:23:13-25:36
-45                android:name="android.app.lib_name"
-45-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:24:17-52
-46                android:value="" />
-46-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:25:17-33
-47        </activity>
-48        <activity
-48-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:35:9-41:20
-49            android:name="com.himanshu.activitylifecycle.AvengersActivity"
-49-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:36:13-45
-50            android:exported="true" >
-50-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:37:13-36
-51            <meta-data
-51-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:23:13-25:36
-52                android:name="android.app.lib_name"
-52-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:24:17-52
-53                android:value="" />
-53-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:25:17-33
-54        </activity>
-55
-56        <provider
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-57            android:name="androidx.startup.InitializationProvider"
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-58            android:authorities="com.himanshu.activitylifecycle.androidx-startup"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-59            android:exported="false" >
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-60            <meta-data
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-62                android:value="androidx.startup" />
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-63            <meta-data
-63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\himan\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\himan\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-65                android:value="androidx.startup" />
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\himan\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-66        </provider>
-67    </application>
-68
-69</manifest>
+27        android:testOnly="true"
+28        android:theme="@style/Theme.ActivityLifecycle" >
+28-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:13:9-55
+29        <activity
+29-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:15:9-26:20
+30            android:name="com.himanshu.activitylifecycle.SplashActivity"
+30-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:16:13-43
+31            android:exported="true" >
+31-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:17:13-36
+32            <intent-filter>
+32-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:18:13-22:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:19:17-69
+33-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:19:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:21:17-77
+35-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:21:27-74
+36            </intent-filter>
+37
+38            <meta-data
+38-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:23:13-25:36
+39                android:name="android.app.lib_name"
+39-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:24:17-52
+40                android:value="" />
+40-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:25:17-33
+41        </activity>
+42        <activity
+42-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:27:9-34:20
+43            android:name="com.himanshu.activitylifecycle.LoginActivity"
+43-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:28:13-42
+44            android:exported="true" >
+44-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:29:13-36
+45            <meta-data
+45-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:23:13-25:36
+46                android:name="android.app.lib_name"
+46-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:24:17-52
+47                android:value="" />
+47-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:25:17-33
+48        </activity>
+49        <activity
+49-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:35:9-41:20
+50            android:name="com.himanshu.activitylifecycle.AvengersActivity"
+50-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:36:13-45
+51            android:exported="true" >
+51-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:37:13-36
+52            <meta-data
+52-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:23:13-25:36
+53                android:name="android.app.lib_name"
+53-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:24:17-52
+54                android:value="" />
+54-->C:\Users\himan\StudioProjects\AvengersApp\app\src\main\AndroidManifest.xml:25:17-33
+55        </activity>
+56
+57        <provider
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+58            android:name="androidx.startup.InitializationProvider"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+59            android:authorities="com.himanshu.activitylifecycle.androidx-startup"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+60            android:exported="false" >
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+61            <meta-data
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+63                android:value="androidx.startup" />
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\himan\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\himan\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\himan\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+66                android:value="androidx.startup" />
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\himan\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+67        </provider>
+68    </application>
+69
+70</manifest>

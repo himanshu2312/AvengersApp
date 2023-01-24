@@ -1,39 +1,27 @@
 [
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_panther.jpg.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\panther.jpg"
-    },
-    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_main.xml"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_google_logo.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\google_logo.png"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_black_panther.jpg.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\black_panther.jpg"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_google_signin.xml.flat",
@@ -44,48 +32,36 @@
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_acitivity_main_relative_layout.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\acitivity_main_relative_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_widow.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\widow.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_splash.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_tony_stark.jpg.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\tony_stark.jpg"
-    },
-    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_avengers_logo.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\avengers_logo.png"
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_tony_stark.jpg.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\tony_stark.jpg"
     },
     {
-        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/layout_activity_splash.xml.flat",
-        "source": "com.himanshu.activitylifecycle.app-main-31:/layout/activity_splash.xml"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_profile.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_profile.xml"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_thor.png.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\thor.png"
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_profile.xml"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_facebook_logo.png.flat",
@@ -96,10 +72,6 @@
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_facebook_login.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_facebook_login.xml"
-    },
-    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -108,20 +80,36 @@
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_login.xml"
     },
     {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_captain_america.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\captain_america.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\xml\\data_extraction_rules.xml"
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -132,6 +120,10 @@
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\tony_stark_small.jpg"
     },
     {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_hulk.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\hulk.png"
     },
@@ -140,20 +132,12 @@
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_message.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_message.xml"
-    },
-    {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_avengers.xml.flat",
-        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_avengers.xml"
     },
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -170,5 +154,85 @@
     {
         "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_panther.jpg.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\panther.jpg"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_google_logo.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_black_panther.jpg.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\black_panther.jpg"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_widow.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\widow.png"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_avengers_logo.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\avengers_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable_thor.png.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\drawable\\thor.png"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_facebook_login.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_facebook_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-pngs-24:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-merged_res-29:\\layout_activity_avengers.xml.flat",
+        "source": "C:\\Users\\himan\\.gradle\\daemon\\7.4\\com.himanshu.activitylifecycle.app-main-31:\\layout\\activity_avengers.xml"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.himanshu.activitylifecycle.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.himanshu.activitylifecycle.app-debug-30:/mipmap-hdpi/ic_launcher_foreground.png"
     }
 ]
