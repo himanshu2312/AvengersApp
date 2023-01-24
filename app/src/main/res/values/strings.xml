@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="new_app_name">AVENGERS</string>
+    <string name="hnt_input_number">Enter Mobile Number</string>
+    <string name="hnt_input_password">Enter Password</string>
+    <string name="hnt_input_text">Enter some text</string>
+    <string name="btn_send">Send</string>
+    <string name="preference_file_name">Avengers Preferences</string>
+    <string name="btn_logout">logout</string>
+    <string name="des_avengers_logo">logo of avengers</string>
+</resources>
